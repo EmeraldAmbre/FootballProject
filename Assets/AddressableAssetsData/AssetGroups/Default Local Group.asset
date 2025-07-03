@@ -1,0 +1,375 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 936a783bea37e9742a71b008c7e9c7dd
+  m_SerializeEntries:
+  - m_GUID: 461d2693827d68b44b73429dd60959ec
+    m_Address: Assets/_Art/Sounds/Buckets/BallHitTheGoalNet.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 440c2a025f4cf604280b8dac14c60b53
+    m_Address: Assets/_Art/Sounds/Buckets/BallHitTheWoodWork.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa045e1037d0a994cbf369fec4b05720
+    m_Address: Assets/_Art/Sounds/Buckets/BallOutByTheNet.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a540305edb2ddee498a47d1034475575
+    m_Address: Assets/_Art/Sounds/Buckets/GoalKeeperHoldTheBall.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3c3a1cc96af7a834da9e8442268698be
+    m_Address: Assets/_Art/Sounds/Buckets/PlayerChipShoot.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fea86ca3ffdab464cb3346ccefc1be45
+    m_Address: Assets/_Art/Sounds/Buckets/PlayerControlBall.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 64ac9415464c75445be0af21a5d9b8f2
+    m_Address: Assets/_Art/Sounds/Buckets/PlayerCross.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: df8faa34c7d98a84ba3c364f212b2dea
+    m_Address: Assets/_Art/Sounds/Buckets/PlayerDisbalanced.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: cc17754e33782db45be4f7ba6b7fe721
+    m_Address: Assets/_Art/Sounds/Buckets/PlayerPass.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5af81fdf0e33e144b87211c2ea4dbb06
+    m_Address: Assets/_Art/Sounds/Buckets/PlayerShoot.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fc186a0830a458e4eaea4abc9ca98c41
+    m_Address: Assets/_Art/Sounds/Buckets/PlayerSlideTackle.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a8a1ba7d3b31d7b4e829bf70a87966cd
+    m_Address: Assets/_Art/Sounds/Buckets/PlayerTackled.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2773da1b1c2dc2f4ab66952b3dbad8d9
+    m_Address: Assets/_Art/Sounds/Buckets/PlayerThrowIn.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2eb8e6b51dcfddf41aba552414bc9f49
+    m_Address: Assets/_Art/Sounds/Buckets/RefereeLastWhistle.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5de9ddcdd9e636141a4bf737889c8bd0
+    m_Address: Assets/_Art/Sounds/Buckets/RefereeLongWhistle.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 80d98b7a29ef27d46a6fd33f4875a91c
+    m_Address: Assets/_Art/Sounds/Buckets/RefereeShortWhistle.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7592a16ff0dc2164d84ad37a1364372b
+    m_Address: Assets/_Art/Sounds/Clips/FootballInGame/RefereeLongWhistle/RefereeLongWhistle.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b771f60553f1d2948884b581b4caf915
+    m_Address: Assets/_Art/Sounds/Clips/FootballInGame/RefereeShortWhistle/RefereeShortWhistle.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1fcb5fcda94f2db4abf5bd77e636268d
+    m_Address: Assets/_Art/Sounds/Clips/FootballInGame/RefereeLastWhistle/RefereeLastWhistle.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: caec0067cea0a194fb3030ac8c415dd7
+    m_Address: Assets/_Art/Sounds/Clips/FootballInGame/BallHitTheGoalNet/BallHitTheGoalNet1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2f7fb16a456750f4ebecca51cdd06d5e
+    m_Address: Assets/_Art/Sounds/Clips/FootballInGame/BallHitTheGoalNet/BallHitTheGoalNet2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5caab63da38de74418e9ce2e7718ca72
+    m_Address: Assets/_Art/Sounds/Clips/FootballInGame/BallHitTheGoalNet/BallHitTheGoalNet3.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b3336b99cd0abc745bf2b0876a74dfa7
+    m_Address: Assets/_Art/Sounds/Clips/FootballInGame/BallHitTheGoalNet/BallHitTheGoalNet4.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 081fcb021c88dbe4596d8e7e337adbc7
+    m_Address: Assets/_Art/Sounds/Clips/FootballInGame/BallHitTheGoalNet/BallHitTheGoalNet5.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f54cbc4e043eb8345a0a9b447cfc6aa2
+    m_Address: Assets/_Art/Sounds/Clips/FootballInGame/BallHitTheGoalNet/BallHitTheGoalNet6.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 6c526776429d4564aa51070786a3fc58
+    m_Address: Assets/_Art/Sounds/Clips/FootballInGame/BallHitTheWoodWork/BallHitTheWoodWork1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fa89a3d28a985ff42bc7d523f68b5d78
+    m_Address: Assets/_Art/Sounds/Clips/FootballInGame/BallHitTheWoodWork/BallHitTheWoodWork2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 289e9cfb9efc3334e88f459bec55f661
+    m_Address: Assets/_Art/Sounds/Clips/FootballInGame/BallHitTheWoodWork/BallHitTheWoodWork3.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 00a39fa0c557758439c9563ce937db47
+    m_Address: Assets/_Art/Sounds/Clips/FootballInGame/BallHitTheWoodWork/BallHitTheWoodWork4.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a3aa939a387657a4ab7f8282b86b5563
+    m_Address: Assets/_Art/Sounds/Clips/FootballInGame/BallHitTheWoodWork/BallHitTheWoodWork5.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 04823df28c3e50b479f187048396bc5f
+    m_Address: Assets/_Art/Sounds/Clips/FootballInGame/BallOutByTheNet/BallOutByTheNet1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 29eac2357832a4247a793d09cf84057f
+    m_Address: Assets/_Art/Sounds/Clips/FootballInGame/BallOutByTheNet/BallOutByTheNet2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d9b45f753dd56464bb92bedbff9384e2
+    m_Address: Assets/_Art/Sounds/Clips/FootballInGame/BallOutByTheNet/BallOutByTheNet3.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 46e6c3910468911419004785be2c2498
+    m_Address: Assets/_Art/Sounds/Clips/FootballInGame/GoalKeeperHoldTheBall/GoalKeeperHoldTheBall1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a6cdf0a9cc9a9d94bb54adee9259d5f5
+    m_Address: Assets/_Art/Sounds/Clips/FootballInGame/GoalKeeperHoldTheBall/GoalKeeperHoldTheBall2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 40aa8eb573edd434d9650dd2824973a7
+    m_Address: Assets/_Art/Sounds/Clips/FootballInGame/GoalKeeperHoldTheBall/GoalKeeperHoldTheBall3.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 88eccdf3a51c06e46900d2d555ce3aab
+    m_Address: Assets/_Art/Sounds/Clips/FootballInGame/PlayerChipShoot/PlayerChipShoot1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9e611bd37c2b2074d9435643a14e4cd2
+    m_Address: Assets/_Art/Sounds/Clips/FootballInGame/PlayerChipShoot/PlayerChipShoot2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d790c60a87154da4188097ecebd32c75
+    m_Address: Assets/_Art/Sounds/Clips/FootballInGame/PlayerControllBall/PlayerControlBall.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d7ebdeea273426b419b57fdf6143856a
+    m_Address: Assets/_Art/Sounds/Clips/FootballInGame/PlayerCross/PlayerCross.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d57e6c6c58180844faa44b9a416faf84
+    m_Address: Assets/_Art/Sounds/Clips/FootballInGame/PlayerDisbalanced/PlayerDisbalanced1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: aa96731aff35e1041bb8314e379cdc3e
+    m_Address: Assets/_Art/Sounds/Clips/FootballInGame/PlayerDisbalanced/PlayerDisbalanced2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e16460d8ae23e9f4592c5532fbc8bb6e
+    m_Address: Assets/_Art/Sounds/Clips/FootballInGame/PlayerDisbalanced/PlayerDisbalanced3.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4973b8f1b2d52ad488f5a1f2e6ea17d5
+    m_Address: Assets/_Art/Sounds/Clips/FootballInGame/PlayerPass/PlayerPass1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2d6037a191d36bc4abfa2a4ca145e125
+    m_Address: Assets/_Art/Sounds/Clips/FootballInGame/PlayerShoot/PlayerShoot1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1c7041673e4f4834fb9476dd3af43528
+    m_Address: Assets/_Art/Sounds/Clips/FootballInGame/PlayerShoot/PlayerShoot2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 55583b3e13a6b8648b56f1f863c356ae
+    m_Address: Assets/_Art/Sounds/Clips/FootballInGame/PlayerSlideTackle/PlayerSlideTackle1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 54b9a03cb5692db4e84ff46bbed5f0af
+    m_Address: Assets/_Art/Sounds/Clips/FootballInGame/PlayerSlideTackle/PlayerSlideTackle2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d732d2dcf01beaf4f9f1caf8dab919c3
+    m_Address: Assets/_Art/Sounds/Clips/FootballInGame/PlayerTackled/PlayerTackled1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b33f68f1b00c5f54a9cc859102854b2f
+    m_Address: Assets/_Art/Sounds/Clips/FootballInGame/PlayerThrowIn/PlayerThrowIn2.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 49201b9c8c01770458f19a545297222d
+    m_Address: Assets/_Art/Sounds/Clips/FootballInGame/PlayerThrowIn/PlayerThrowIn1.wav
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 10c57a50b03f9674c8c5455c5b3ccd49
+    m_Address: Assets/_Art/Sounds/Clips/FootballInGame
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d6de3ba862253e741ad549727576a669
+    m_Address: Assets/_Art/Sounds/Collections/InGameMatch.asset
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: afd403f0173128f499b4ab5d966b05e3
+    m_Address: Assets/_Art/Sounds/Clips/FootballInGame/PlayerShoot
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 327e5275a552632488105d7a7bbacaf9
+    m_Address: Assets/_Art/Sounds/Clips/FootballInGame/BallHitTheGoalNet
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 885583cc810036a41ae46553bc1eafd4
+    m_Address: Assets/_Art/Sounds/Clips/FootballInGame/BallHitTheWoodWork
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 04345e4e9a6eb2946abe361c2a4c9102
+    m_Address: Assets/_Art/Sounds/Clips/FootballInGame/BallOutByTheNet
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4ebc4cc8ba43d4b40b92b45e0aa79822
+    m_Address: Assets/_Art/Sounds/Clips/FootballInGame/GoalKeeperHoldTheBall
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c06d7edff2deb9043b82aa9a04dc158a
+    m_Address: Assets/_Art/Sounds/Clips/FootballInGame/PlayerChipShoot
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dc38a4358ea7fc840b33f774393647c8
+    m_Address: Assets/_Art/Sounds/Clips/FootballInGame/PlayerControllBall
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 89abf6e9e569eb241b621e5f77480e96
+    m_Address: Assets/_Art/Sounds/Clips/FootballInGame/PlayerCross
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 70ce65331e2eece449bb942a1a822062
+    m_Address: Assets/_Art/Sounds/Clips/FootballInGame/PlayerDisbalanced
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: c33a3817f5cdea541814a8a82eacc2e5
+    m_Address: Assets/_Art/Sounds/Clips/FootballInGame/PlayerPass
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d4dc79ff55aefa240b6df50aa2740add
+    m_Address: Assets/_Art/Sounds/Clips/FootballInGame/PlayerSlideTackle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f048eaa438b54604f97429aacaeab219
+    m_Address: Assets/_Art/Sounds/Clips/FootballInGame/PlayerTackled
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 8f642f4981224ee4e9a43331237ecc3b
+    m_Address: Assets/_Art/Sounds/Clips/FootballInGame/PlayerThrowIn
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a1452a19c48aa9345984acdbf553fade
+    m_Address: Assets/_Art/Sounds/Clips/FootballInGame/RefereeLastWhistle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 2caf1771b2af53b4d8298d05bb53a617
+    m_Address: Assets/_Art/Sounds/Clips/FootballInGame/RefereeLongWhistle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 4132b60388ff1a440a403fd64e54d41b
+    m_Address: Assets/_Art/Sounds/Clips/FootballInGame/RefereeShortWhistle
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 70fe77dd43b3c4b4cbffd12ea474452b
+    m_Address: Assets/_Art/Sounds/Buckets
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: ea5151cee4faac24489219d2084138b2, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 2556e021859c847478b96c2e9648e917, type: 2}
+    - {fileID: 11400000, guid: e52ac871ed27c094d88380715361d55e, type: 2}
