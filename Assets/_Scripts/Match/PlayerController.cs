@@ -17,7 +17,7 @@ namespace FootballProject
         public float kickForce = 10f;
         public float kickUpwardForce = 2f;
 
-        private Rigidbody rb;
+        [SerializeField] Rigidbody rb;
         private bool isGrounded;
         private Transform cameraTransform;
         private Vector3 moveInput;
@@ -35,7 +35,7 @@ namespace FootballProject
         #region Unity API
         private void Start()
         {
-            rb = GetComponent<Rigidbody>();
+            if (rb == null) rb = GetComponent<Rigidbody>();
             cameraTransform = Camera.main.transform;
         }
         private void Awake()
