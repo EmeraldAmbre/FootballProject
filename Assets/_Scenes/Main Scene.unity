@@ -1034,7 +1034,15 @@ PrefabInstance:
       objectReference: {fileID: 443105604}
     - target: {fileID: 4946920846301915257, guid: e941f4e3a4b30a74ea615cbd4f5e6264, type: 3}
       propertyPath: jumpForce
-      value: 5
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4946920846301915257, guid: e941f4e3a4b30a74ea615cbd4f5e6264, type: 3}
+      propertyPath: acceleration
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4946920846301915257, guid: e941f4e3a4b30a74ea615cbd4f5e6264, type: 3}
+      propertyPath: deceleration
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 5106491442763397053, guid: e941f4e3a4b30a74ea615cbd4f5e6264, type: 3}
       propertyPath: m_IsActive
@@ -4335,7 +4343,15 @@ PrefabInstance:
       objectReference: {fileID: 2023949117}
     - target: {fileID: 4946920846301915257, guid: e941f4e3a4b30a74ea615cbd4f5e6264, type: 3}
       propertyPath: jumpForce
-      value: 5
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4946920846301915257, guid: e941f4e3a4b30a74ea615cbd4f5e6264, type: 3}
+      propertyPath: acceleration
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4946920846301915257, guid: e941f4e3a4b30a74ea615cbd4f5e6264, type: 3}
+      propertyPath: deceleration
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 5333479320621457053, guid: e941f4e3a4b30a74ea615cbd4f5e6264, type: 3}
       propertyPath: m_IsActive
@@ -5005,7 +5021,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4946920846301915257, guid: e941f4e3a4b30a74ea615cbd4f5e6264, type: 3}
       propertyPath: jumpForce
-      value: 5
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 4946920846301915257, guid: e941f4e3a4b30a74ea615cbd4f5e6264, type: 3}
+      propertyPath: acceleration
+      value: 6
+      objectReference: {fileID: 0}
+    - target: {fileID: 4946920846301915257, guid: e941f4e3a4b30a74ea615cbd4f5e6264, type: 3}
+      propertyPath: deceleration
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 5333479320621457053, guid: e941f4e3a4b30a74ea615cbd4f5e6264, type: 3}
       propertyPath: m_IsActive
