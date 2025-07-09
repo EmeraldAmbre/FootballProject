@@ -88,7 +88,7 @@ MonoBehaviour:
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: 5de9ddcdd9e636141a4bf737889c8bd0
-    m_Address: Assets/_Art/Sounds/Buckets/RefereeLongWhistle.asset
+    m_Address: unds/Buckets/RefereeLongWhistle.assetgWhistle.asset
     m_ReadOnly: 0
     m_SerializedLabels: []
     FlaggedDuringContentUpdateRestriction: 0

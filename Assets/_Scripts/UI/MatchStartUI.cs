@@ -19,8 +19,14 @@ namespace FootballProject.UI
         {
             panel.SetActive(true);
             buttonText.text = label;
-            button.onClick.RemoveAllListeners();
-            button.onClick.AddListener(() => StartCoroutine(StartButtonRoutine()));
+        }
+
+        /// <summary>
+        /// Méthode à appeler via l'OnClick du bouton dans l'inspecteur.
+        /// </summary>
+        public void OnButtonPressed()
+        {
+            StartCoroutine(StartButtonRoutine());
         }
 
         private IEnumerator StartButtonRoutine()
