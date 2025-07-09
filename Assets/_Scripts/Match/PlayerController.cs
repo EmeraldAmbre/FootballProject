@@ -138,7 +138,14 @@ namespace FootballProject
         }
         public void SetStuck(bool stuck)
         {
-            rb.isKinematic = stuck;
+            if (stuck is true)
+            {
+                rb.constraints = RigidbodyConstraints.FreezeAll;
+            }
+            else
+            {
+                rb.constraints = RigidbodyConstraints.FreezeRotation;
+            }
             isStuck = stuck;
         }
         #endregion
