@@ -6,11 +6,8 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/FootballSimulator/_StartingScene.unity
-    guid: 9fc0d4010bbf28b4594072e72b8655ab
-  - enabled: 1
-    path: Assets/FootballSimulator/Scenes/DefaultScene.unity
-    guid: 87e39defefc67fe4495c67d831c0a18b
+    path: Assets/_Scenes/Main Scene.unity
+    guid: 98642b2b7fd258c46a0ee59a67ac9d36
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: f7cd4adb7a200df478b16585f44e97a9, type: 2}
     com.unity.input.settings: {fileID: 11400000, guid: f4a59921d52a39349aec858fad401ede, type: 2}
