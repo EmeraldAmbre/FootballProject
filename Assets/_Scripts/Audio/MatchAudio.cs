@@ -5,7 +5,6 @@ namespace FootballProject.Audio
 {
     public class MatchAudio : AudioMaster<MatchAudio>
     {
-        private const float VELOCITY_TO_SOUND_VOLUME = 0.0275f;
         private const float BALL_CONTROL_SOUND_MOD = 0.4f;
         private const float BALL_HIT_GOAL_SOUND_MOD = 0.75f;
         private const float WHISTLE_MOD = 0.25f;
